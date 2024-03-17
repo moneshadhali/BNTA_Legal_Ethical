@@ -6,19 +6,19 @@ BankingCorp are one of the leading retail banks in the country, offering a full 
 They have recently been approached by a payday loan company who want to send direct marketing to users struggling to pay their credit card bills. The loan company want to email the customers they feel would be most likely to use their services but acknowledge that manually identifying targets would be time-consuming and want to develop an algorithm to automate this. BankingCorp have given them access to their systems to test this algorithm, ensuring it works with real customer data. The loan company have had some negative publicity recently and so BankingCorp will not be announcing this new partnership publicly. Instead they will inform customers in an email explaining the changes to their terms and conditions.
 
 --------------------------------------------------------------------------------------
-#### Response:
+### Response:
 
 **Legal Concerns**
-Banking Corp is violating the GDPR (2018) privacy laws and regulations by sharing customer data to third party company without explicitly getting their consents fro, their user (confedentiality breach)
++ Banking Corp is violating the GDPR (2018) privacy laws and regulations by sharing customer data to third party company without explicitly getting their consents from their user (confedentiality breach)
 
 **Ethical Concerns**
-Banking Corp are not being transparent about using user data (getting informed consent) - only manipulating the user to agree to policy (terms and condition) that they have not directly signed up for. Usually majority of user do not read the terms and condition due to it being a long document (most skip and trust the companies integrity) thereby manipulating the user to sign up for something that they might not want to disclose.
-Banking Corp is breaking the anonymity claus by giving their personal info  to the loan company thereby allowing their vulnerable user to be expolited.
++ Banking Corp are not being transparent about using user data (getting informed consent) - only manipulating the user to agree to policy (terms and condition) that they have not directly signed up for. Usually majority of user do not read the terms and condition due to it being a long document (most skip and trust the companies integrity) thereby manipulating the user to sign up for something that they might not want to disclose.
++ Banking Corp is breaking the anonymity claus by giving their personal info  to the loan company thereby allowing their vulnerable user to be expolited.
 
 **Possible Steps Company Can take:**
-Get the user direct permission and being transparent about the usage of user data.
-Consider features and usage of user data from the user POV (ethical standard being met)
-Have an ethical team to inspect companies decision and stop possible malpractice or exploitation.
++ Get the user direct permission and being transparent about the usage of user data.
++ Consider features and usage of user data from the user POV (ethical standard being met)
++ Have an ethical team to inspect companies decision and stop possible malpractice or exploitation.
 
 
 ## Scenario 2
@@ -27,16 +27,38 @@ The new mobile game Treasure Hunters has been taking the country by storm. Playe
 The developers have been taken aback by the success of the game and are struggling to keep up with demand. They have had to spin up more servers and are looking to hire more engineers to keep working on content. That costs money though, and they are looking to monetise the game. Instead of adding new maps daily they will continually be adding more which players can unlock by completing existing maps. Players will be able to spend their points to unlock hints which will help them progress faster. Hints will also be available to purchase using real-world money, with the possibility of offering multi-buy discounts at a later date.
 
 --------------------------------------------------------------------------------------
-#### Response:
+### Response:
 
 **Legal Concerns**
-The game company of Tresure Hunters might want to comply with legal regulations if the player / users are minors under the Social Media Platform Duty to Children Act. 
++ The game company of Tresure Hunters might want to comply with legal regulations if the player / users are minors under the Social Media Platform Duty to Children Act. 
 
 **Ethical Concerns**
-By monetizing certain in-game features, the company may give uneven advantage to players. This means players with difficult background may not be able to compete fairly against those with disposable income (GBP/USD/RMB etc).
-The company may be expoiting and encouraging those with additive tendecies which might make those with less disposable income into spending beyond their capacity.
++ By monetizing certain in-game features, the company may give uneven advantage to players. This means players with difficult background may not be able to compete fairly against those with disposable income (GBP/USD/RMB etc).
++ The company may be expoiting and encouraging those with additive tendecies which might make those with less disposable income into spending beyond their capacity.
 
 **Possible Steps Company Can take:**
-The game company can restrict minor players by age or restricting the content they can access (avoid letting them be influenced by illegal or harmful contents).
-They can also develop extra algorithm tailored to minors that include less additive features with appropriate age restricted content.
-They can plan for ethical game monetization system in which monetizing is introduced and included without creating an unfair gaming adantages.
++ The game company can restrict minor players by age or restricting the content they can access (avoid letting them be influenced by illegal or harmful contents).
++ They can also develop extra algorithm tailored to minors that include less additive features with appropriate age restricted content.
++ They can plan for ethical game monetization system in which monetizing is introduced and included without creating an unfair gaming adantages.
+
+
+
+## Scenario 3
+friends.com is a new match-making service to help people socialise when they move to a new area. Users enter their area and a list of their interests before being shown a list of people with similar interests in the area. There's no guarantee of an exact match in interests and the suggested friend could be on the opposite side of the city. Users can freely view each others' profiles and message each other, but the matching service will speed up the process of making new contacts. The site is free with revenue coming from generic banner ads on the page.
+
+Their development plans involve adding a premium membership which will lock many of the existing features behind a paywall. Free users will only be able to view limited versions of profiles and have a daily cap on the number of matches which can be made. Premium users, on the other hand, will now have more specific location settings and be able to filter their matches. To advertise the premium service the free-tier users will be given occasional "trial periods" of the premium tier followed by adverts showing them what they could unlock by subscribing. Additionally the generic banner ads will be replaced by more targeted advertising for local businesses. Users' location data will be shared in order to ensure relevant businesses are being advertised.
+
+--------------------------------------------------------------------------------------
+### Response:
+
+**Legal Concerns**
++ friends.com may be violating the GDPR (2018) or CCPA privacy laws and regulations by sharing customer data to local business company for targeted advertising without explicitly getting user consent (confedentiality breach).
+
+**Ethical Concerns**
++ friends.com is violating user privacy as their location is exposed to third-party company / local bussinesses. 
++ Not being transapernt with user about how they are using their data and is not etting explicit consent from the user.
++ Not enough protection to user is being given, as those with premium membership may access other users private information and may be able to track down vulnerable user (using the platform as a criminal info collection tool, to target potential victim by area and certain information)
+
+**Possible Steps Company Can take:**
++ Getting explicit informed consent from the user about data sharing and its implications.
++ Give the user the choice of not sharing their location (this means premium member may not be able to have access to their location or information without user consents OR the chance of local business advertising).
