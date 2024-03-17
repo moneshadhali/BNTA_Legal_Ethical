@@ -15,7 +15,7 @@ They have recently been approached by a payday loan company who want to send dir
 + Banking Corp are not being transparent about using user data (getting informed consent) - only manipulating the user to agree to policy (terms and condition) that they have not directly signed up for. Usually majority of user do not read the terms and condition due to it being a long document (most skip and trust the companies integrity) thereby manipulating the user to sign up for something that they might not want to disclose.
 + Banking Corp is breaking the anonymity claus by giving their personal info  to the loan company thereby allowing their vulnerable user to be expolited.
 
-**Possible Steps Company Can take:**
+**Possible Steps Company Can take**
 + Get the user direct permission and being transparent about the usage of user data.
 + Consider features and usage of user data from the user POV (ethical standard being met)
 + Have an ethical team to inspect companies decision and stop possible malpractice or exploitation.
@@ -36,11 +36,10 @@ The developers have been taken aback by the success of the game and are struggli
 + By monetizing certain in-game features, the company may give uneven advantage to players. This means players with difficult background may not be able to compete fairly against those with disposable income (GBP/USD/RMB etc).
 + The company may be expoiting and encouraging those with additive tendecies which might make those with less disposable income into spending beyond their capacity.
 
-**Possible Steps Company Can take:**
+**Possible Steps Company Can take**
 + The game company can restrict minor players by age or restricting the content they can access (avoid letting them be influenced by illegal or harmful contents).
-+ They can also develop extra algorithm tailored to minors that include less additive features with appropriate age restricted content.
-+ They can plan for ethical game monetization system in which monetizing is introduced and included without creating an unfair gaming adantages.
-
++ Develop algorithm specially tailored for minors which includes less additive features with appropriate age restricted illustrated map/ treasures/ clues/ puzzles.
++ Plan ethical game monetization system in which monetizing is introduced and included without creating an unfair gaming adantages.
 
 
 ## Scenario 3
@@ -55,10 +54,11 @@ Their development plans involve adding a premium membership which will lock many
 + friends.com may be violating the GDPR (2018) or CCPA privacy laws and regulations by sharing customer data to local business company for targeted advertising without explicitly getting user consent (confedentiality breach).
 
 **Ethical Concerns**
-+ friends.com is violating user privacy as their location is exposed to third-party company / local bussinesses. 
-+ Not being transapernt with user about how they are using their data and is not etting explicit consent from the user.
++ friends.com is violating user privacy as users location is exposed to third-party company / local bussinesses without getting explicit consent from the user.
++ Not being transapernt with user about the usage of their personal data
 + Not enough protection to user is being given, as those with premium membership may access other users private information and may be able to track down vulnerable user (using the platform as a criminal info collection tool, to target potential victim by area and certain information)
 
-**Possible Steps Company Can take:**
-+ Getting explicit informed consent from the user about data sharing and its implications.
-+ Give the user the choice of not sharing their location (this means premium member may not be able to have access to their location or information without user consents OR the chance of local business advertising).
+**Possible Steps Company Can take**
++ Getting explicit informed consent from the user about data sharing and inform user the implications of data sharing.
++ Give user the choice of not sharing their location (this means premium member may not be able to have access to their location or information without user consents OR the chance of local business advertising).
++ Give user the ability to control what data friend.com is able to retain or share
